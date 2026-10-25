@@ -1,0 +1,10 @@
+{
+  "name": "StudyVix",
+  "short_name": "StudyVix",
+  "description": "Your JAMB and IJMB study companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#147d55",
+  "icons": []
+}
